@@ -20,12 +20,12 @@ Para obtener los datos requerido se utilizo la API de Alpaca
 
 ## Notebooks
 
-[Analisis exploratorio y calculo de las estrategias para 1 accion](https://github.com/dipaolme/backtester_trading_bot/blob/main/estrategias_1_accion.ipynb)
+[Analisis exploratorio e implementacion de las estrategias para 1 accion](https://github.com/dipaolme/backtester_trading_bot/blob/main/estrategias_1_accion.ipynb)
 
-[Implementacion de las estrategias para todas las acciones](https://github.com/dipaolme/backtester_trading_bot/blob/main/Analisis_Estrategias.ipynb)
+[Implementacion de las estrategias para todas las acciones](https://github.com/dipaolme/backtester_trading_bot/blob/main/Automatic_Estrategias.ipynb)
 
 [Backtester](https://github.com/dipaolme/backtester_trading_bot/blob/main/Automatic_Alpaca-Backtester.ipynb)
 
-[Analisis de resultados](https://linktodocumentation)
+[Analisis de resultados](https://github.com/dipaolme/backtester_trading_bot/blob/main/Analisis_Estrategias.ipynb)
 
 

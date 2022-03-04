@@ -24,7 +24,7 @@ Para obtener los datos requerido se utilizo la API de Alpaca
 
 [Implementacion de las estrategias para todas las acciones](https://github.com/dipaolme/backtester_trading_bot/blob/main/Analisis_Estrategias.ipynb)
 
-[Backtester](https://linktodocumentation)
+[Backtester](https://github.com/dipaolme/backtester_trading_bot/blob/main/Automatic_Alpaca-Backtester.ipynb)
 
 [Analisis de resultados](https://linktodocumentation)
 

@@ -14,10 +14,11 @@ Para obtener los datos requerido se utilizo la API de Alpaca
 
 ## Authors
 
-- [@matiasdipaola](https://www.github.com/octokatherine)
+- [@matiasdipaola](https://github.com/dipaolme)
+- [@gastonaraujo](https://www.github.com/octokatherine)
 
 
-## Archivos
+## notebooks
 
 [Analisis exploratorio y calculo de las estrategias para 1 accion](https://linktodocumentation)
 

@@ -6,7 +6,7 @@ Se analizo el desempeno de 3 estrategias de trading intradiario en 41 acciones
 
 Cada una de las estrategias se basa en la implementacion de diferentes valores de los parametros stop loss (SL), take profit (TP) y trail (TR) de acuerdo diferentes criterios
 
-Se implemento el backtestesting (libreria backtrader) para cada una de las estrategias en un periodo de 3 meses en velas de 3 minutos
+Se implemento el backtestesting (libreria backtrader) de las estrategias para cada accion en un periodo de 3 meses en velas de 3 minutos
  
 Para obtener los datos requeridos se utilizo la API de Alpaca
 

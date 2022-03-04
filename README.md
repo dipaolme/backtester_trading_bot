@@ -18,7 +18,7 @@ Para obtener los datos requerido se utilizo la API de Alpaca
 - [@gastonaraujo](https://www.github.com/octokatherine)
 
 
-## notebooks
+## Notebooks
 
 [Analisis exploratorio y calculo de las estrategias para 1 accion](https://linktodocumentation)
 

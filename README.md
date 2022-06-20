@@ -3,14 +3,14 @@
 
 
 
-The performance of 3 intraday trading strategies on 41 stocks were analyzed
+Performance of 3 intraday trading strategies on 41 stocks
 
 Each strategy is based on the implementation of different values for the stop loss (SL), take profit (TP) and trail (TR) parameters according to different criteria.
 
 The strategies backtesting (backtrader library) for each action was implemented in a period of 3 months in 3-minute candles
 
 
-Alpaca API was used yo obtain the required data (credentials required)
+Alpaca API was used to obtain the required data (credentials required)
 
 
 

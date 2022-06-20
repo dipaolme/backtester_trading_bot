@@ -2,30 +2,26 @@
 # Backtester Trading Bot
 
 
-Se analizo el desempeno de 3 estrategias de trading intradiario en 41 acciones
 
-Cada una de las estrategias se basa en la implementacion de diferentes valores de los parametros stop loss (SL), take profit (TP) y trail (TR) de acuerdo diferentes criterios
+The performance of 3 intraday trading strategies on 41 stocks were analyzed
 
-Se implemento el backtestesting (libreria backtrader) de las estrategias para cada accion en un periodo de 3 meses en velas de 3 minutos
- 
-Para obtener los datos requeridos se utilizo la API de Alpaca
+Each strategy is based on the implementation of different values for the stop loss (SL), take profit (TP) and trail (TR) parameters according to different criteria.
 
+The strategies backtesting (backtrader library) for each action was implemented in a period of 3 months in 3-minute candles
 
 
-## Authors
+Alpaca API was used yo obtain the required data (credentials required)
 
-- [@matiasdipaola](https://github.com/dipaolme)
-- [@gastonaraujo]()
 
 
 ## Notebooks
 
-[Analisis exploratorio e implementacion de las estrategias para 1 accion](https://github.com/dipaolme/backtester_trading_bot/blob/main/estrategias_1_accion.ipynb)
+[Exploratory analysis and strategy implementation for 1 stock](https://github.com/dipaolme/backtester_trading_bot/blob/main/estrategias_1_accion.ipynb)
 
-[Implementacion de las estrategias para todas las acciones](https://github.com/dipaolme/backtester_trading_bot/blob/main/Automatic_Estrategias.ipynb)
+[Strategy implementation for all stocks](https://github.com/dipaolme/backtester_trading_bot/blob/main/Automatic_Estrategias.ipynb)
 
 [Backtester](https://github.com/dipaolme/backtester_trading_bot/blob/main/Automatic_Alpaca-Backtester.ipynb)
 
-[Analisis de resultados](https://github.com/dipaolme/backtester_trading_bot/blob/main/Analisis_Estrategias.ipynb)
+[Results Analysis](https://github.com/dipaolme/backtester_trading_bot/blob/main/Analisis_Estrategias.ipynb)
 
 
